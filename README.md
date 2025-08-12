@@ -1,2 +1,2 @@
 # delta6
-demo class git &amp; github
+demo class git &amp; github.
